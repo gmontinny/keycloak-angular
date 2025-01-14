@@ -1,7 +1,5 @@
 # Keycloak Angular Example
 
-![main-screen](./doc_resource/main-screen.png)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server
