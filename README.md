@@ -80,7 +80,7 @@ You also need to configure Valid Redirect URIs and Web Origins. Be as specific a
 **References**
 
 * Keycloak Javascript Adapter options are available here (API reference)
-https://www.keycloak.org/docs/latest/securing_apps/index.html#api-reference
+https://www.keycloak.org/documentation.html
 
 * Keycloak Angular SDK available here
 https://www.npmjs.com/package/keycloak-angular
